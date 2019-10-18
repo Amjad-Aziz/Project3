@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #F8F5EE;
+}
+
+h3 {
+    display: block;
+    color: #2e2a25;
+}
+
+h6 {
+    color: #2e2a25;
+    margin-bottom: 14px;
+    padding-bottom: 0;
+}
