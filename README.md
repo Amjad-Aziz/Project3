@@ -1,5 +1,5 @@
 # Classic Arcade Game Clone Project
-Done By Amjad
+it is done for udacity as requirement for completing the course 
 
 
 use the arrow to move the player
